@@ -1,0 +1,41 @@
+/* Write your CSS code here */
+
+.header {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.logo-section {
+  display: flex;
+}
+
+.logo-name {
+  margin-left: 15px;
+  color: #12022f;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.links-section {
+  display: flex;
+}
+
+.list-items {
+  display: flex;
+  list-style: none;
+}
+
+.nav-link {
+  margin-right: 20px;
+  color: #12022f;
+  font-weight: bold;
+  font-family: Roboto;
+  text-decoration: none;
+}
+
+.wave-logo {
+  width: 40px;
+  height: 40px;
+}
